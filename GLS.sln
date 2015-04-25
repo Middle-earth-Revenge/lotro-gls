@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Web Developer Express 2008
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLS.DataCenterServer", "GLS.DataCenterServer\GLS.DataCenterServer.csproj", "{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLS.AuthServer", "GLS.AuthServer\GLS.AuthServer.csproj", "{5DA552D0-336C-4217-B5B3-F8F2C0843279}"
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5DA552D0-336C-4217-B5B3-F8F2C0843279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5DA552D0-336C-4217-B5B3-F8F2C0843279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA552D0-336C-4217-B5B3-F8F2C0843279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA552D0-336C-4217-B5B3-F8F2C0843279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30780C5-4947-40F3-9BFA-AD6B414ABDC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
